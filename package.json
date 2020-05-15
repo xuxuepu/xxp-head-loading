@@ -1,0 +1,21 @@
+{
+  "name": "xxp-head-loading",
+  "version": "1.0.0",
+  "description": "单页应用懒加载时，显示加载js模块时显示loading",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxuepu/xxp-head-loading.git"
+  },
+  "author": "epo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxuepu/xxp-head-loading/issues"
+  },
+  "homepage": "https://github.com/xuxuepu/xxp-head-loading#readme",
+  "dependencies": {
+  }
+}
